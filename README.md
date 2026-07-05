@@ -1,5 +1,4 @@
 # 🚀 Data Engineering Journey
-Update README with project structure
 
 Welcome to my Data Engineering learning journey!
 
