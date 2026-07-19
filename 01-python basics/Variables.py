@@ -215,15 +215,13 @@ print(numbers)
 
 x = 10
 
-print("xxX",id(x))
+print(x)
 
 x = "Python"
 
-print(x)
+print(x)    
 
 x = [1,2,3]
-
-print("xxX",id(x)) 
 
 print(x)
 

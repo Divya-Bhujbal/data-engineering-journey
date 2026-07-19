@@ -263,7 +263,7 @@ and
 Logical operator.
 """
 
-print("5 & 3",1 & 3)
+print(1 & 3)
 print(True and False)
 
 # =====================================================
