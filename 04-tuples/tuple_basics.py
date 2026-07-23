@@ -170,34 +170,15 @@ Tuple
 ✔ Suitable for fixed data"""
 
 
-#.15 Tuple Concatenation
 
-a = (1,'m',6.70)
-b = ('divya',110)
-print("Tuple concatenation ",a+b)
-
-
-#16. Tuple Repetition
-print("Tuple Repetition ",a*2)
-
-
-#17.max(), min(), sum()
-
-d = (2,3,4,6,1322)
-print("max ",max(d))
-print("min ",min(d))
-print("sum ",sum(d))
-
-
-
-#18. Nested tuple
+#15. Nested tuple
 
 a = (('a',1),('b',2))
 print(a[0])
 print(a[0][1])
 
 
-#19. Interview Questions
+#16. Interview Questions
 
 """
 Q1. Why are tuples immutable?
@@ -238,7 +219,7 @@ Q4. List vs Tuple?
 (Most common interview question.)"""
 
 
-#20. Quick Revision
+#17. Quick Revision
 """
 
 ✔ Ordered

@@ -164,4 +164,23 @@ sorted()
    converts it back to a tuple.
 
 """
+"""
+Most asked interview question 
 
+
+a = (1, 2, [3, 4])
+
+a[2].append(5)
+
+print(a)
+
+Output:
+
+(1, 2, [3, 4, 5])
+
+Why?
+
+The tuple itself is immutable (you can't replace its elements), but it can contain mutable objects like lists. 
+Modifying the list does not modify the tuple's structure.
+
+"""
